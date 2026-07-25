@@ -45,4 +45,4 @@ It is not presented as a fully hand-coded website. The purpose of this project i
 
 ## Live Website
 
-https://fumuradigitalflagshipstore.vercel.app/#/
+https://fumuradigitalflagshipstore.vercel.app/
