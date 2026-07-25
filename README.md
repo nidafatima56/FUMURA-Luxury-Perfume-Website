@@ -2,6 +2,7 @@
 
 
 
+
 ## About The Project
 
 FUMURA is a fictional luxury perfume brand website created as an AI-powered portfolio project.
