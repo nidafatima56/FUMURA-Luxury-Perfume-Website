@@ -1,5 +1,6 @@
 # FUMURA — Luxury Perfume Website
-fumura-homepage.png
+
+
 
 ## About The Project
 
