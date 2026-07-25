@@ -1,60 +1,20 @@
-# FUMURA-Luxury-Perfume-Website
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
 
-## About The Project
+# Run and deploy your AI Studio app
 
-FUMURA is a fictional luxury perfume brand website created as an AI-powered portfolio project.
+This contains everything you need to run your app locally.
 
-The project explores how AI tools can be used for website ideation, branding, design direction, and generating functional digital experiences.
+View your app in AI Studio: https://ai.studio/apps/85e85038-8aca-4bdf-8028-1c8ebc1d6bf8
 
-## Project Creation Process
+## Run Locally
 
-This website was created using a combination of AI tools and my creative direction.
+**Prerequisites:**  Node.js
 
-The process included:
 
-1. Developing the brand concept, including:
-   - Brand name: FUMURA
-   - Luxury perfume theme
-   - Tagline and overall visual direction
-
-2. Providing detailed instructions and references to AI, including:
-   - Website style and layout ideas
-   - Design inspiration references
-   - Required sections and features
-   - Product details and user experience requirements
-
-3. Using ChatGPT to create a detailed development prompt based on my requirements.
-
-4. Using Google AI Studio to generate the website code based on the created prompt.
-
-5. Exporting the generated project and deploying it using Vercel.
-
-## My Contribution
-
-My role in this project included:
-
-- Developing the brand idea and creative direction
-- Planning website structure and features
-- Writing detailed AI prompts
-- Guiding and refining AI-generated outputs
-- Reviewing the generated website concept
-- Deploying the final website
-
-## Note About AI Usage
-
-This project was created using AI tools as part of an AI-powered development workflow.
-
-The website code was generated through AI based on my instructions and prompts. This project demonstrates my ability to use AI tools for creative problem-solving, prompt engineering, and building digital prototypes.
-
-It is not presented as a fully hand-coded website.
-
-## Tools Used
-
-- ChatGPT — ideation and prompt creation
-- Google AI Studio — AI-generated website development
-- Vercel — deployment platform
-- AI-assisted web development workflow
-
-## Project Type
-
-Portfolio Project / AI Experiment
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
